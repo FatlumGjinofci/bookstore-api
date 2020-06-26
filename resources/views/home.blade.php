@@ -17,6 +17,10 @@
                     You are logged in!
                 </div>
             </div>
+
+            <passport-clients />
+            <passport-authorized-clients />
+            <passport-personal-access-tokens />
         </div>
     </div>
 </div>
